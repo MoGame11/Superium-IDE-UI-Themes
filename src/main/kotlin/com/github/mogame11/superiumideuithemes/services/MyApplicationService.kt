@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mogame11.superiumideuithemes.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mogame11.superiumideuithemes.MyBundle
 
 class MyApplicationService {
 
